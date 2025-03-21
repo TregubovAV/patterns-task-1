@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.OrderCardTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-03-21T18:04:36.047Z" hostname="MacBook-Pro-BakhaPerc.local" time="3.421">
+  <properties/>
+  <testcase name="shouldReplanMeetingDate()" classname="test.OrderCardTest" time="3.421"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+Starting ChromeDriver 134.0.6998.90 (219ee74681fc640b1ee1af1c99df3729a0ec25a8-refs/branch-heads/6998@{#1900}) on port 36204
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully on port 36204.
+мар. 22, 2025 1:04:37 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 134
+мар. 22, 2025 1:04:37 AM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.8.3` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+</testsuite>

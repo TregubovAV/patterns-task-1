@@ -12,6 +12,8 @@
 
 # Package Files #
 *.jar
+!artifacts/app-replan-delivery.jar
+!artifacts/app-ibank.jar
 *.war
 *.nar
 *.ear
